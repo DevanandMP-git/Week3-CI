@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "System Information
+echo "System Information"
 echo "------------------"
 
 echo "Hostname:"
