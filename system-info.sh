@@ -2,14 +2,14 @@
 echo "System Information"
 echo "------------------"
 
-echo "Hostname"
+echo "Hostname:"
 hostname
 
-echo "Current user"
+echo "Current user:"
 whoami
 
-echo "Today's Date"
+echo "Today's Date:"
 date
 
-echo "Operating System"
+echo "Operating System:"
 uname -a
